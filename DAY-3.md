@@ -2,8 +2,7 @@
 =: ORACLE---> My client Group --> Workforce Stracture 
 "" Locations ""                              
                                       ===>>    Add Locations 
-                                            ---------------------
-
+                                          
  Basic Details
 ----------------
  * Effictive start date  :-   📅 Mar 28,2026
@@ -17,4 +16,4 @@
 * City or Town :-  🔻Banglore
 * Pin code :- 🔻 110001
 * State :- 🔻 Karnataka
-                                  ===> SUBMIT
+                                   ===> SUBMIT
